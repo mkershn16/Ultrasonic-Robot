@@ -4,6 +4,7 @@
 
 This is the inspiration behind our robot arm. The arm will be able to rotate at the "shoulder",                                      "elbow", and "wrist".
 ## Schedule
+| --- | --- |
 | Week 1 | Plan our project + github page |
 | Week 2 | Start to make a prototype for the arm in solidworks |
 | Week 3 | Finish the prototype in solidworks  |
