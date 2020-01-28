@@ -12,3 +12,10 @@ This is the inspiration behind our robot arm. The arm will be able to rotate at 
 | Week 7 |                                                                                   |
 | Week 8 |                                                                                   |
 | Week 9 |                                                                                   |
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
