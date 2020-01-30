@@ -9,14 +9,14 @@ Week 1: Plan our project + github page
 
 Week 2: Start to make a prototype for the arm in solidworks
 
-Week 3: Finish the prototype in solidworks
+Week 3: Assmeble the prototype in solidworks, run analysis tests to make sure the servos can support the arm
 
-Week 4: Make Adjustments to the prototype
+Week 4: Adjust the prototype's dimensions based on the analysis tests
 
-Week 5: Start setting up code and get all the materials + Code the first servo/base servo
+Week 5: Print out the individual parts and make a basic code outline
 
-Week 7: 
+Week 7: Assemble the parts together and finish the code
 
-Week 8: 
+Week 8: Add wiring to the assembly and make sure the code does what we want it to do
 
-Week 9:                                                                                  
+Week 9: Adjust code if needed and make small improvements, continue to test the arm                                                                                 
